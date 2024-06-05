@@ -1,0 +1,2 @@
+[app.Benchmarks]
+command = "python sampler.py"
